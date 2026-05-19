@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719650408128",
+    "project_id": "where-is-my-cat-the-adve-32af5",
+    "storage_bucket": "where-is-my-cat-the-adve-32af5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719650408128:android:0596c459b3dc49687a8f25",
+        "android_client_info": {
+          "package_name": "com.slabgames.wimcadv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr1YVNl7LSswUUwLXYui7LlhSyUGMrMxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
